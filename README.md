@@ -72,7 +72,7 @@ and images.
 
 ```
 decentralized-moderation/
-├── frontend/                    # React UI (port 3000)
+├── frontend/                    # React UI (port used 3000)
 │   ├── public/index.html
 │   ├── src/
 │   │   ├── App.js               # Navigation + layout
