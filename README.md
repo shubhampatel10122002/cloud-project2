@@ -232,7 +232,7 @@ One command from the repo root:
 npm start
 ```
 
-This launches all 4 backend nodes plus the React frontend in a single
+This launches all 4 backend nodes + the React frontend in a single
 terminal with colour-coded prefixed logs (via `concurrently`). Press
 `Ctrl+C` once to stop them all.
 
